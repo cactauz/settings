@@ -1,0 +1,64 @@
+{
+    "gitlens.advanced.messages": {
+        "suppressShowKeyBindingsNotice": true
+    },
+    "gitlens.historyExplorer.enabled": false,
+    "editor.fontFamily": "'M+ 1m'",
+    "git.autofetch": true,
+    "files.autoSave": "afterDelay",
+    "editor.rulers": [
+        80,
+        120
+    ],
+    "git.confirmSync": false,
+    "diffEditor.renderSideBySide": false,
+    "editor.formatOnSave": true,
+    "editor.minimap.enabled": false,
+    "editor.scrollBeyondLastLine": false,
+    "editor.renderWhitespace": "boundary",
+    "cSpell.userWords": [
+        "ack",
+        "ack'd",
+        "anns",
+        "arrs",
+        "avro",
+        "by",
+        "chans",
+        "curr",
+        "deduped",
+        "edge",
+        "glog",
+        "grpc",
+        "infof",
+        "nil",
+        "nil'd",
+        "nullary",
+        "protobuf",
+        "random",
+        "repr",
+        "sarama",
+        "solr",
+        "sourcer",
+        "structs",
+        "transform",
+        "unarranged",
+        "wifi",
+        "wrstrings",
+        "zklocks",
+        "zkmaster",
+        "zkscreamer",
+        "zkstore"
+    ],
+    "go.testTimeout": "15s",
+    "go.testFlags": [
+        "-v"
+    ],
+    "gitlens.gitExplorer.location": "explorer",
+    "go.testEnvVars": {
+        "GOCACHE": "off"
+    },
+    "window.zoomLevel": 0,
+    "workbench.statusBar.feedback.visible": false,
+    "explorer.autoReveal": false,
+    "workbench.editor.enablePreview": false
+}
