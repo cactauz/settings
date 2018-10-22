@@ -19,17 +19,20 @@
     "cSpell.userWords": [
         "ack",
         "ack'd",
+        "adid",
         "anns",
         "arrs",
         "avro",
         "by",
         "chans",
+        "cockroachdb",
         "curr",
         "deduped",
         "edge",
         "glog",
         "grpc",
         "infof",
+        "metrics",
         "nil",
         "nil'd",
         "nullary",
@@ -37,11 +40,14 @@
         "random",
         "repr",
         "sarama",
+        "sharded",
         "solr",
         "sourcer",
         "structs",
+        "to",
         "transform",
         "unarranged",
+        "vertices",
         "wifi",
         "wrstrings",
         "zklocks",
@@ -49,7 +55,6 @@
         "zkscreamer",
         "zkstore"
     ],
-    "go.testTimeout": "15s",
     "go.testFlags": [
         "-v"
     ],
@@ -60,5 +65,8 @@
     "window.zoomLevel": 0,
     "workbench.statusBar.feedback.visible": false,
     "explorer.autoReveal": false,
-    "workbench.editor.enablePreview": false
+    "workbench.editor.enablePreview": false,
+    "breadcrumbs.enabled": true,
+    "git.enableSmartCommit": true,
+    "go.testTimeout": "60s"
 }
